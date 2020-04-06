@@ -5,4 +5,4 @@ Desenvolvido tendo como base o tutorial [Build a COVID-19 Tracker Application - 
 - React;
 - Charts.js;
 - Material UI;
-- (API)[https://covid19.mathdro.id/api].
+- [API](https://covid19.mathdro.id/api).
